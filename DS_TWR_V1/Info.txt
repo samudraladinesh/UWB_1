@@ -1,0 +1,9 @@
+TAG (Initiator)              ANCHOR (Responder)
+
+------------------------------------------------
+POLL  -------------------->
+      <--------------------  RESPONSE
+FINAL -------------------->
+
+ANCHOR computes distance
+(or sends ToF back if needed)
